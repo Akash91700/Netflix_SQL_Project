@@ -1,0 +1,17 @@
+This project answers 15 real-world business problems using SQL:
+
+1️⃣ Count the number of Movies vs TV Shows
+2️⃣ Find the most common rating for content
+3️⃣ List movies released in 2020
+4️⃣ Find Top 5 countries with most content
+5️⃣ Identify the longest movie
+6️⃣ Find content added in the last 5 years
+7️⃣ Find titles directed by Rajiv Chilaka
+8️⃣ List TV shows with more than 5 seasons
+9️⃣ Count content by genre
+🔟 Find top years of Netflix content in India
+1️⃣1️⃣ List documentary movies
+1️⃣2️⃣ Find content without a director
+1️⃣3️⃣ Movies featuring Salman Khan in last 10 years
+1️⃣4️⃣ Top 10 actors in Indian Netflix movies
+1️⃣5️⃣ Categorize content as Good or Bad based on keywords
